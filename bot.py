@@ -162,4 +162,4 @@ async def coordinates(ctx):
     await ctx.send("Nether Tunnel :  -76, 80, 211")
 
 
-client.run("ODQ2NzUyMzM0MzcyNDA1Mjc5.YK0FkA.pwopprRpvmCTI23XMTF-sRHspUs")
+client.run("ODQ2NzUyMzM0MzcyNDA1Mjc5.YK0FkA.alTyrnTPXrRyvjxH87O1S_mi0Zo")
